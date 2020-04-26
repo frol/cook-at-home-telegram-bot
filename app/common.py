@@ -1,0 +1,1 @@
+KEYBOARD_BACK = "Назад"
